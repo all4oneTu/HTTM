@@ -1,0 +1,2900 @@
+ [{
+      "startIndex": 0,
+      "endIndex": 15,
+      "text": "I like comedies",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+      },
+{
+  "index": 13,
+  "speaker": "USER",
+  "text": "The Avengers",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 12,
+    "text": "The Avengers",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+    },
+   {
+    
+      "index": 15,
+      "speaker": "USER",
+      "text": "Because it had a large amount of action and also mixed in good amounts of comedy, making it an entertaining movie.",
+      "segments": [ {
+        "startIndex": 0,
+        "endIndex": 113,
+        "text": "Because it had a large amount of action and also mixed in good amounts of comedy, making it an entertaining movie",
+        "annotations": [ {
+          "annotationType": "ENTITY_PREFERENCE",
+          "entityType": "MOVIE_OR_SERIES"
+        } ]
+      } ]
+    },
+   {
+    "index": 16,
+    "speaker": "ASSISTANT",
+    "text": "And what's a movie you disliked?"
+  }, {
+    "index": 17,
+    "speaker": "ASSISTANT",
+    "text": "why did you dislike it?"
+  }, {
+    "index": 18,
+    "speaker": "USER",
+    "text": "Because it was overly graphic.",
+    "segments": [ {
+      "startIndex": 8,
+      "endIndex": 29,
+      "text": "it was overly graphic",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+   },
+   {
+    "index": 19,
+    "speaker": "ASSISTANT",
+    "text": "How so?"
+  }, {
+    "index": 20,
+    "speaker": "USER",
+    "text": "It had a lot of disturbing scenes that involved needles and knives and gore.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 75,
+      "text": "It had a lot of disturbing scenes that involved needles and knives and gore",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  },
+  {
+    "index": 21,
+    "speaker": "ASSISTANT",
+    "text": "I see."
+  }, {
+    "index": 22,
+    "speaker": "ASSISTANT",
+    "text": "So based on what you've said, did you like Guardians of the Galaxy?",
+    "segments": [ {
+      "startIndex": 43,
+      "endIndex": 66,
+      "text": "Guardians of the Galaxy",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  },
+  {
+    "startIndex": 37,
+    "endIndex": 60,
+    "text": "I like superhero movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 5,
+    "endIndex": 35,
+    "text": "I like Guardians of the Galaxy",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ,
+
+{
+  "index": 24,
+  "speaker": "ASSISTANT",
+  "text": "Why did you like that kind of movie?"
+}, {
+  "index": 25,
+  "speaker": "USER",
+  "text": "Because it had a good cast and a good story line, with lots of action.",
+  "segments": [ {
+    "startIndex": 8,
+    "endIndex": 69,
+    "text": "it had a good cast and a good story line, with lots of action",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+},
+{
+  "index": 26,
+  "speaker": "ASSISTANT",
+  "text": "Great. and what about Logan, did you see that?",
+  "segments": [ {
+    "startIndex": 22,
+    "endIndex": 27,
+    "text": "Logan",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 27,
+  "speaker": "USER",
+  "text": "Yes, I liked that movie, too.",
+  "segments": [ {
+    "startIndex": 5,
+    "endIndex": 23,
+    "text": "I liked that movie",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+},{
+  "startIndex": 28,
+  "endIndex": 87,
+  "text": "I'm also a fan of the character that he played in the movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+},{
+  "startIndex": 29,
+  "endIndex": 41,
+  "text": "Pretty Woman",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 43,
+  "endIndex": 53,
+  "text": "27 dresses",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 55,
+  "endIndex": 74,
+  "text": "Bridget Jones Diary",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ,
+ {
+"index": 4,
+"speaker": "USER",
+"text": "Someone Like You",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 16,
+  "text": "Someone Like You",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, 
+{
+  "index": 6,
+  "speaker": "USER",
+  "text": "Oh, another romantic comedy that I love is The Holiday, another one is Picture Perfect.",
+  "segments": [ {
+    "startIndex": 43,
+    "endIndex": 54,
+    "text": "The Holiday",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 71,
+    "endIndex": 86,
+    "text": "Picture Perfect",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 4,
+    "endIndex": 54,
+    "text": "another romantic comedy that I love is The Holiday",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 7,
+  "speaker": "USER",
+  "text": "Two Can Play That Game. For regular comedies, I love 40-Year-Old Virgin",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 22,
+    "text": "Two Can Play That Game",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    }, {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 53,
+    "endIndex": 71,
+    "text": "40-Year-Old Virgin",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 46,
+    "endIndex": 71,
+    "text": "I love 40-Year-Old Virgin",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 8,
+  "speaker": "USER",
+  "text": "Waiting for Guffman, Best in Show",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 19,
+    "text": "Waiting for Guffman",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 21,
+    "endIndex": 33,
+    "text": "Best in Show",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 9,
+  "speaker": "ASSISTANT",
+  "text": "What did you like about first wive's club?"
+}, {
+  "index": 10,
+  "speaker": "USER",
+  "text": "That's like a female central comedy that is just hilarious. And it's The plotting, the scheming it's a kind of a revenge comedy I guess you could call it. It's just a lot of fun and like really had fun making it and it came across for that just 2 hours of fun.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 58,
+    "text": "That's like a female central comedy that is just hilarious",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 64,
+    "endIndex": 153,
+    "text": "it's The plotting, the scheming it's a kind of a revenge comedy I guess you could call it",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 155,
+    "endIndex": 259,
+    "text": "It's just a lot of fun and like really had fun making it and it came across for that just 2 hours of fun",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 11,
+  "speaker": "USER",
+  "text": "The actors are fantastic in that movie which is really what makes it a good movie probably.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 44,
+    "text": "The actors are fantastic in that movie which",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 45,
+    "endIndex": 90,
+    "text": "is really what makes it a good movie probably",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+},
+{
+  "startIndex": 29,
+  "endIndex": 65,
+  "text": " ",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 166,
+  "endIndex": 204,
+  "text": "I will definitely see the the next one",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 206,
+  "endIndex": 264,
+  "text": "I'll keep watching them probably as long as they make them",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 291,
+  "endIndex": 338,
+  "text": "It's a Christmas movie, you know, the first one",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 83,
+  "endIndex": 164,
+  "text": "the last one really wasn't very good, although it did have Timothy Olyphant in it",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 270,
+  "endIndex": 289,
+  "text": "they're just so fun",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ,
+ {
+"index": 13,
+"speaker": "ASSISTANT",
+"text": "What was it about die hard you liked or dislike?",
+"segments": [ {
+  "startIndex": 18,
+  "endIndex": 26,
+  "text": "die hard",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 14,
+"speaker": "USER",
+"text": "Well, the first one's Just the story was You know, I mean it was kind out there, but it was Bruce Willis probably the main reason I like them. I'm a fan of his, and the first one was just very clever, and the dialog and you know, the quippy remarks, all the crazy stuff that he did. It was just a fun movie to watch and",
+"segments": [ {
+  "startIndex": 92,
+  "endIndex": 104,
+  "text": "Bruce Willis",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "PERSON"
+  } ]
+}, {
+  "startIndex": 85,
+  "endIndex": 141,
+  "text": "it was Bruce Willis probably the main reason I like them",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 165,
+  "endIndex": 199,
+  "text": "the first one was just very clever",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 205,
+  "endIndex": 215,
+  "text": "the dialog",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 230,
+  "endIndex": 248,
+  "text": "the quippy remarks",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 250,
+  "endIndex": 281,
+  "text": "all the crazy stuff that he did",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 283,
+  "endIndex": 315,
+  "text": "It was just a fun movie to watch",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 143,
+  "endIndex": 159,
+  "text": "I'm a fan of his",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "PERSON"
+  } ]
+} ]
+}, {
+"index": 15,
+"speaker": "USER",
+"text": "You know, mainly coz they are fun they're just fun movies. I mean you know they could nothing like that could ever happen but its just fun to watch it on TV or on the screen.",
+"segments": [ {
+  "startIndex": 10,
+  "endIndex": 57,
+  "text": "mainly coz they are fun they're just fun movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 86,
+  "endIndex": 173,
+  "text": "nothing like that could ever happen but its just fun to watch it on TV or on the screen",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 16,
+"speaker": "ASSISTANT",
+"text": "Wonderful. thank you for sharing. good bye"
+} ,
+{
+"conversationId": "CCPE-8b6ef",
+"utterances": [ {
+"index": 0,
+"speaker": "ASSISTANT",
+"text": "I’d like to discuss your movie preferences. Ok?"
+}, {
+"index": 1,
+"speaker": "USER",
+"text": "Yes, I like to watch action movies.",
+"segments": [ {
+  "startIndex": 21,
+  "endIndex": 27,
+  "text": "action",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 5,
+  "endIndex": 34,
+  "text": "I like to watch action movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 2,
+"speaker": "ASSISTANT",
+"text": "What appeals to you with these type of movies?"
+}, {
+"index": 3,
+"speaker": "USER",
+"text": "They're fun. They're exciting.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 11,
+  "text": "They're fun",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 13,
+  "endIndex": 29,
+  "text": "They're exciting",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 4,
+"speaker": "ASSISTANT",
+"text": "Is there a specific movie you enjoy from this genre?"
+}, {
+"index": 5,
+"speaker": "USER",
+"text": "Die Hard",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 8,
+  "text": "Die Hard",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  }, {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 6,
+"speaker": "ASSISTANT",
+"text": "What did you like about this movie?"
+}, {
+"index": 7,
+"speaker": "USER",
+"text": "I liked the end.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 15,
+  "text": "I liked the end",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 8,
+"speaker": "USER",
+"text": "fact that Bruce Willis's character was a real person, not a comic book character or anything like that, just a real guy in a difficult situation.",
+"segments": [ {
+  "startIndex": 10,
+  "endIndex": 22,
+  "text": "Bruce Willis",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "PERSON"
+  } ]
+}, {
+  "startIndex": 0,
+  "endIndex": 144,
+  "text": "fact that Bruce Willis's character was a real person, not a comic book character or anything like that, just a real guy in a difficult situation",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 9,
+"speaker": "ASSISTANT",
+"text": "Are there any type of movies that you don't enjoy?"
+}, {
+"index": 10,
+"speaker": "USER",
+"text": "I enjoy all types of movies.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 27,
+  "text": "I enjoy all types of movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 11,
+"speaker": "ASSISTANT",
+"text": "What about these movies is unappealing?"
+}, {
+"index": 12,
+"speaker": "USER",
+"text": "No. There is no type of movie that I don't like. I watch anything.",
+"segments": [ {
+  "startIndex": 4,
+  "endIndex": 47,
+  "text": "There is no type of movie that I don't like",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 49,
+  "endIndex": 65,
+  "text": "I watch anything",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 13,
+"speaker": "ASSISTANT",
+"text": "Have you seen The Shawshank redemption?",
+"segments": [ {
+  "startIndex": 14,
+  "endIndex": 38,
+  "text": "The Shawshank redemption",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 14,
+"speaker": "USER",
+"text": "Yes, I have.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 11,
+  "text": "Yes, I have",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 15,
+"speaker": "ASSISTANT",
+"text": "What did you enjoy or not enjoy about this movie?"
+}, {
+"index": 16,
+"speaker": "USER",
+"text": "Well, the entire thing was great. Just very well plotted, well written, clever. Morgan Freeman was great in it. I'd love to see it again.",
+"segments": [ {
+  "startIndex": 80,
+  "endIndex": 94,
+  "text": "Morgan Freeman",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "PERSON"
+  } ]
+}, {
+  "startIndex": 112,
+  "endIndex": 136,
+  "text": "I'd love to see it again",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 6,
+  "endIndex": 32,
+  "text": "the entire thing was great",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 34,
+  "endIndex": 56,
+  "text": "Just very well plotted",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 58,
+  "endIndex": 70,
+  "text": "well written",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 72,
+  "endIndex": 78,
+  "text": "clever",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 80,
+  "endIndex": 110,
+  "text": "Morgan Freeman was great in it",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 17,
+"speaker": "ASSISTANT",
+"text": "Thank you for your help and have a wonderful day!"
+} ]
+},
+{
+"conversationId": "CCPE-d632e",
+"utterances": [ {
+"index": 0,
+"speaker": "ASSISTANT",
+"text": "what kind of movies do u like watching?"
+}, {
+"index": 1,
+"speaker": "USER",
+"text": "I like watching both war movies and documentaries.",
+"segments": [ {
+  "startIndex": 21,
+  "endIndex": 31,
+  "text": "war movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 36,
+  "endIndex": 49,
+  "text": "documentaries",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 0,
+  "endIndex": 49,
+  "text": "I like watching both war movies and documentaries",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 2,
+"speaker": "ASSISTANT",
+"text": "awesome. can u name a movie that fits one of those categories that u really enjoyed?"
+}, {
+"index": 3,
+"speaker": "USER",
+"text": "I would say"
+}, {
+"index": 4,
+"speaker": "USER",
+"text": "The King of Kong, The Fistful of Quarters, that was a pretty good movie.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 16,
+  "text": "The King of Kong",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  }, {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 18,
+  "endIndex": 41,
+  "text": "The Fistful of Quarters",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  }, {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 43,
+  "endIndex": 71,
+  "text": "that was a pretty good movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 5,
+"speaker": "ASSISTANT",
+"text": "what qualities about that movie did u enjoy?"
+}, {
+"index": 6,
+"speaker": "USER",
+"text": "I enjoyed that it was something that was a bit obsecure. Like when most people when they think of video games they're not thinking Well, most people are not thinking of arcades. So, when I think of a video game documentary, I don't think of arcades games. I don't think of",
+"segments": [ {
+  "startIndex": 57,
+  "endIndex": 176,
+  "text": "Like when most people when they think of video games they're not thinking Well, most people are not thinking of arcades",
+  "annotations": [ {
+    "annotationType": "ENTITY_OTHER",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 0,
+  "endIndex": 55,
+  "text": "I enjoyed that it was something that was a bit obsecure",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 182,
+  "endIndex": 254,
+  "text": "when I think of a video game documentary, I don't think of arcades games",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 7,
+"speaker": "USER",
+"text": "competitive arcade games, so that kind of shone some light on on that whole scene that I'd never knew existed. And you know, it was pretty cool. Like they even You know, I they kind of dramatized it a little bit, which, I mean, was whatever. But it was also kind of a nice twist because it it made it a little more entertaining, without necessarily",
+"segments": [ {
+  "startIndex": 29,
+  "endIndex": 109,
+  "text": "that kind of shone some light on on that whole scene that I'd never knew existed",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 125,
+  "endIndex": 143,
+  "text": "it was pretty cool",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 172,
+  "endIndex": 240,
+  "text": "they kind of dramatized it a little bit, which, I mean, was whatever",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 246,
+  "endIndex": 348,
+  "text": "it was also kind of a nice twist because it it made it a little more entertaining, without necessarily",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 8,
+"speaker": "USER",
+"text": "Overdoing anything?",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 18,
+  "text": "Overdoing anything",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 9,
+"speaker": "ASSISTANT",
+"text": "thanks for sharing. can u give the name of a movie that u didn't like that fits the categories u mentioned?"
+}, {
+"index": 10,
+"speaker": "USER",
+"text": "I didn't care too much for The Wizard of Oz. Just because it",
+"segments": [ {
+  "startIndex": 27,
+  "endIndex": 43,
+  "text": "The Wizard of Oz",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 11,
+"speaker": "USER",
+"text": "I get that it's an old movie so like I understand. It comes from a different time but it just didn't really resonate with me all that well.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 49,
+  "text": "I get that it's an old movie so like I understand",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 51,
+  "endIndex": 81,
+  "text": "It comes from a different time",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 86,
+  "endIndex": 128,
+  "text": "it just didn't really resonate with me all",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 12,
+"speaker": "ASSISTANT",
+"text": "what about the movie didn't u like"
+}, {
+"index": 13,
+"speaker": "USER",
+"text": "I didn't like the cliche plot line which, again, I'm sure at the time it wasn't cliche because it's such an old movie, but like to me nowadays just kind of seemed cliche. It was",
+"segments": [ {
+  "startIndex": 95,
+  "endIndex": 117,
+  "text": "it's such an old movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_DESCRIPTION",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 0,
+  "endIndex": 40,
+  "text": "I didn't like the cliche plot line which",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 49,
+  "endIndex": 86,
+  "text": "I'm sure at the time it wasn't cliche",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 134,
+  "endIndex": 169,
+  "text": "nowadays just kind of seemed cliche",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 14,
+"speaker": "USER",
+"text": "I don't know. Just like I said, it didn't really resonate with me. It's not to say it was a bad movie. I just didn't really like it.",
+"segments": [ {
+  "startIndex": 32,
+  "endIndex": 65,
+  "text": "it didn't really resonate with me",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 67,
+  "endIndex": 101,
+  "text": "It's not to say it was a bad movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 103,
+  "endIndex": 131,
+  "text": "I just didn't really like it",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 15,
+"speaker": "ASSISTANT",
+"text": "it helps me to learn more if i know specific reasons why it didn't resonate with you. for example, the costuming, or the story line"
+}, {
+"index": 16,
+"speaker": "USER",
+"text": "Yeah. The story line wasn't all that great to me. The costuming, yeah. That was shaky at best. Which again, I know it's an old movie, but",
+"segments": [ {
+  "startIndex": 6,
+  "endIndex": 48,
+  "text": "The story line wasn't all that great to me",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 50,
+  "endIndex": 93,
+  "text": "The costuming, yeah. That was shaky at best",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 17,
+"speaker": "USER",
+"text": "It just seemed a little weird, out of place at how badly done it was compared to today's movies.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 29,
+  "text": "It just seemed a little weird",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 31,
+  "endIndex": 95,
+  "text": "out of place at how badly done it was compared to today's movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+} ]
+},
+{
+"conversationId": "CCPE-83810",
+"utterances": [ {
+"index": 0,
+"speaker": "ASSISTANT",
+"text": "What kinds of movies do you like?"
+}, {
+"index": 1,
+"speaker": "USER",
+"text": "I like action movies and comedies.",
+"segments": [ {
+  "startIndex": 7,
+  "endIndex": 20,
+  "text": "action movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 25,
+  "endIndex": 33,
+  "text": "comedies",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 0,
+  "endIndex": 33,
+  "text": "I like action movies and comedies",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 2,
+"speaker": "ASSISTANT",
+"text": "awesome, why do you like action movies?",
+"segments": [ {
+  "startIndex": 25,
+  "endIndex": 31,
+  "text": "action",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 3,
+"speaker": "USER",
+"text": "Because of the guns and the fast cars, the cool actors.",
+"segments": [ {
+  "startIndex": 11,
+  "endIndex": 19,
+  "text": "the guns",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 24,
+  "endIndex": 37,
+  "text": "the fast cars",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 39,
+  "endIndex": 54,
+  "text": "the cool actors",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 4,
+"speaker": "USER",
+"text": "They are extremely interesting. They're never boring. They're always fast paced. That's why I like action movies.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 30,
+  "text": "They are extremely interesting",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 32,
+  "endIndex": 52,
+  "text": "They're never boring",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 54,
+  "endIndex": 79,
+  "text": "They're always fast paced",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 92,
+  "endIndex": 112,
+  "text": "I like action movies",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 5,
+"speaker": "ASSISTANT",
+"text": "Is there an action movie you like?",
+"segments": [ {
+  "startIndex": 12,
+  "endIndex": 24,
+  "text": "action movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+} ]
+}, {
+"index": 6,
+"speaker": "USER",
+"text": "Yes, I like the action movie Twister.",
+"segments": [ {
+  "startIndex": 16,
+  "endIndex": 28,
+  "text": "action movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_GENRE_OR_CATEGORY"
+  } ]
+}, {
+  "startIndex": 29,
+  "endIndex": 36,
+  "text": "Twister",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 5,
+  "endIndex": 36,
+  "text": "I like the action movie Twister",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 7,
+"speaker": "ASSISTANT",
+"text": "Why did you like the movie twister?",
+"segments": [ {
+  "startIndex": 27,
+  "endIndex": 34,
+  "text": "twister",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 8,
+"speaker": "USER",
+"text": "Because it was relevant to actual things that are that are actually happening, natural disaster, something that we face every day. It was realistic, that's why I liked that movie.",
+"segments": [ {
+  "startIndex": 8,
+  "endIndex": 95,
+  "text": "it was relevant to actual things that are that are actually happening, natural disaster",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 131,
+  "endIndex": 147,
+  "text": "It was realistic",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 160,
+  "endIndex": 178,
+  "text": "I liked that movie",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 9,
+"speaker": "ASSISTANT",
+"text": "alright, how about a movie you did not like?"
+}, {
+"index": 10,
+"speaker": "USER",
+"text": "I did not like the movie Deep Impact. It was overdramatic.",
+"segments": [ {
+  "startIndex": 25,
+  "endIndex": 36,
+  "text": "Deep Impact",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 0,
+  "endIndex": 36,
+  "text": "I did not like the movie Deep Impact",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 38,
+  "endIndex": 57,
+  "text": "It was overdramatic",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 11,
+"speaker": "ASSISTANT",
+"text": "What was it about the movie deep impact you did not like?",
+"segments": [ {
+  "startIndex": 28,
+  "endIndex": 39,
+  "text": "deep impact",
+  "annotations": [ {
+    "annotationType": "ENTITY_NAME",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, {
+"index": 12,
+"speaker": "USER",
+"text": "It was extremely overdramatic and it wasn't very realistic.",
+"segments": [ {
+  "startIndex": 0,
+  "endIndex": 29,
+  "text": "It was extremely overdramatic",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+}, {
+  "startIndex": 34,
+  "endIndex": 58,
+  "text": "it wasn't very realistic",
+  "annotations": [ {
+    "annotationType": "ENTITY_PREFERENCE",
+    "entityType": "MOVIE_OR_SERIES"
+  } ]
+} ]
+}, 
+  {
+    "index": 13,
+    "speaker": "USER",
+    "text": "And that was the biggest reason that I didn't like the movie, was that it was not realistic.",
+    "segments": [ {
+      "startIndex": 71,
+      "endIndex": 91,
+      "text": "it was not realistic",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 37,
+      "endIndex": 60,
+      "text": "I didn't like the movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 14,
+    "speaker": "ASSISTANT",
+    "text": "So, have you then seen Forrest Gump?",
+    "segments": [ {
+      "startIndex": 23,
+      "endIndex": 35,
+      "text": "Forrest Gump",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 15,
+    "speaker": "ASSISTANT",
+    "text": "What was it about these kinds of movies you like?"
+  }, {
+    "index": 16,
+    "speaker": "USER",
+    "text": "Forrest Gump was a very emotional movie. It had a character that was you could cheer for and root for, and you hoped he would succeed. I think that's what I like the most about Forrest Gump, is it was a very true and authentic story. It was a beautiful story.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 12,
+      "text": "Forrest Gump",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 0,
+      "endIndex": 39,
+      "text": "Forrest Gump was a very emotional movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 41,
+      "endIndex": 133,
+      "text": "It had a character that was you could cheer for and root for, and you hoped he would succeed",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 150,
+      "endIndex": 232,
+      "text": "what I like the most about Forrest Gump, is it was a very true and authentic story",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 234,
+      "endIndex": 258,
+      "text": "It was a beautiful story",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 17,
+    "speaker": "ASSISTANT",
+    "text": "Ok , thank you for sharing"
+  } ]
+},
+{
+  "conversationId": "CCPE-f287d",
+  "utterances": [ {
+    "index": 0,
+    "speaker": "ASSISTANT",
+    "text": "What type of movies do you like?"
+  }, {
+    "index": 1,
+    "speaker": "USER",
+    "text": "I enjoy family, fantasy and mysteries.",
+    "segments": [ {
+      "startIndex": 8,
+      "endIndex": 14,
+      "text": "family",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 16,
+      "endIndex": 23,
+      "text": "fantasy",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 28,
+      "endIndex": 37,
+      "text": "mysteries",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 0,
+      "endIndex": 37,
+      "text": "I enjoy family, fantasy and mysteries",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 2,
+    "speaker": "ASSISTANT",
+    "text": "why fantasy movies?",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 11,
+      "text": "why fantasy",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 3,
+    "speaker": "USER",
+    "text": "I just like the fantasy part where you can enjoy watching something that is not common or doesn't really happen and the idea of that being able to happen one day.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 86,
+      "text": "I just like the fantasy part where you can enjoy watching something that is not common",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 90,
+      "endIndex": 161,
+      "text": "doesn't really happen and the idea of that being able to happen one day",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 4,
+    "speaker": "ASSISTANT",
+    "text": "What is one of your favorite movies?"
+  }, {
+    "index": 5,
+    "speaker": "USER",
+    "text": "One of my favorite movies was something I watched as a child and it's still is one of my favorite movies The NeverEnding Story.",
+    "segments": [ {
+      "startIndex": 105,
+      "endIndex": 126,
+      "text": "The NeverEnding Story",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 0,
+      "endIndex": 126,
+      "text": "One of my favorite movies was something I watched as a child and it's still is one of my favorite movies The NeverEnding Story",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 6,
+    "speaker": "ASSISTANT",
+    "text": "Why?"
+  }, {
+    "index": 7,
+    "speaker": "USER",
+    "text": "I just thought it was a great movie, it was a good family movie. There was nothing unclean in it, makes you use your imagination. It was interesting and fun.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 35,
+      "text": "I just thought it was a great movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 37,
+      "endIndex": 63,
+      "text": "it was a good family movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 65,
+      "endIndex": 96,
+      "text": "There was nothing unclean in it",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 98,
+      "endIndex": 128,
+      "text": "makes you use your imagination",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 130,
+      "endIndex": 156,
+      "text": "It was interesting and fun",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 8,
+    "speaker": "ASSISTANT",
+    "text": "What type of movies do you not like?"
+  }, {
+    "index": 9,
+    "speaker": "USER",
+    "text": "I do not like musicals.",
+    "segments": [ {
+      "startIndex": 14,
+      "endIndex": 22,
+      "text": "musicals",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 0,
+      "endIndex": 22,
+      "text": "I do not like musicals",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 10,
+    "speaker": "ASSISTANT",
+    "text": "why not?"
+  }, {
+    "index": 11,
+    "speaker": "USER",
+    "text": "I just don't like that type of When I'm watching a movie, I just mainly want to watch a movie. I don't enjoy the that type of singing, and it has it too often in a movie for my personal preference.",
+    "segments": [ {
+      "startIndex": 95,
+      "endIndex": 133,
+      "text": "I don't enjoy the that type of singing",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 12,
+    "speaker": "ASSISTANT",
+    "text": "have you seen the movie Twilight?",
+    "segments": [ {
+      "startIndex": 24,
+      "endIndex": 32,
+      "text": "Twilight",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 13,
+    "speaker": "USER",
+    "text": "I have."
+  }, {
+    "index": 14,
+    "speaker": "ASSISTANT",
+    "text": "what did you like or dislike about this kind of movie?"
+  }, {
+    "index": 15,
+    "speaker": "USER",
+    "text": "I liked the supernatural part of it, the vampires and that fantasy part of the movie. And there was also a bit of a love story in it. I enjoy that.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 35,
+      "text": "I liked the supernatural part of it",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 37,
+      "endIndex": 49,
+      "text": "the vampires",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 59,
+      "endIndex": 74,
+      "text": "fantasy part of",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 116,
+      "endIndex": 126,
+      "text": "love story",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 134,
+      "endIndex": 146,
+      "text": "I enjoy that",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 16,
+    "speaker": "ASSISTANT",
+    "text": "what did you think of the movie Harry Potter and the Prisoner of Azkaban?",
+    "segments": [ {
+      "startIndex": 32,
+      "endIndex": 72,
+      "text": "Harry Potter and the Prisoner of Azkaban",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 17,
+    "speaker": "USER",
+    "text": "I thought it was a good movie it has a lot of magical and",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 32,
+      "text": "I thought it was a good movie it",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 46,
+      "endIndex": 53,
+      "text": "magical",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 18,
+    "speaker": "USER",
+    "text": "things in it that"
+  }, {
+    "index": 19,
+    "speaker": "USER",
+    "text": "So, it's fun to think about that kind of world.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 46,
+      "text": "So, it's fun to think about that kind of world",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 20,
+    "speaker": "ASSISTANT",
+    "text": "okay. thank you"
+  }, {
+    "index": 21,
+    "speaker": "USER",
+    "text": "Thank you."
+  } ]
+},
+{
+  "conversationId": "CCPE-b41b5",
+  "utterances": [ {
+    "index": 0,
+    "speaker": "ASSISTANT",
+    "text": "What type of movies do you enjoy?"
+  }, {
+    "index": 1,
+    "speaker": "USER",
+    "text": "I like comedies a lot.",
+    "segments": [ {
+      "startIndex": 7,
+      "endIndex": 15,
+      "text": "comedies",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 0,
+      "endIndex": 21,
+      "text": "I like comedies a lot",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 2,
+    "speaker": "ASSISTANT",
+    "text": "What do you enjoy about them?"
+  }, {
+    "index": 3,
+    "speaker": "USER",
+    "text": "They're just funny, and they make you Like if you're in a bad mood, they help you feel better. They're just really like enjoyable movies to watch.",
+    "segments": [ {
+      "startIndex": 0,
+      "endIndex": 18,
+      "text": "They're just funny",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 68,
+      "endIndex": 93,
+      "text": "they help you feel better",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 120,
+      "endIndex": 145,
+      "text": "enjoyable movies to watch",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 4,
+    "speaker": "ASSISTANT",
+    "text": "Really good reasons to enjoy them"
+  }, {
+    "index": 5,
+    "speaker": "ASSISTANT",
+    "text": "What movie from that genre do you enjoy?"
+  }, {
+    "index": 6,
+    "speaker": "ASSISTANT",
+    "text": "What did you like about it?"
+  }, {
+    "index": 7,
+    "speaker": "USER",
+    "text": "I mean, it's just It's one of the funniest movies I've ever seen, and it's really quotable, and has Bill Murray and Rodney Dangerfield and Chevy Chase. It's just a really good movie. It's really funny.",
+    "segments": [ {
+      "startIndex": 100,
+      "endIndex": 111,
+      "text": "Bill Murray",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "PERSON"
+      } ]
+    }, {
+      "startIndex": 116,
+      "endIndex": 134,
+      "text": "Rodney Dangerfield",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "PERSON"
+      } ]
+    }, {
+      "startIndex": 139,
+      "endIndex": 150,
+      "text": "Chevy Chase",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "PERSON"
+      } ]
+    }, {
+      "startIndex": 18,
+      "endIndex": 64,
+      "text": "It's one of the funniest movies I've ever seen",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 70,
+      "endIndex": 90,
+      "text": "it's really quotable",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 152,
+      "endIndex": 181,
+      "text": "It's just a really good movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 183,
+      "endIndex": 200,
+      "text": "It's really funny",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, {
+    "index": 8,
+    "speaker": "ASSISTANT",
+    "text": "It seems like a strong cast for a comedy movie, definitely seems enjoyable"
+  }, {
+    "index": 9,
+    "speaker": "ASSISTANT",
+    "text": "Are there any type of movies that you dislike?"
+  }, {
+    "index": 10,
+    "speaker": "USER",
+    "text": "I'm not a big horror movie person.",
+    "segments": [ {
+      "startIndex": 14,
+      "endIndex": 26,
+      "text": "horror movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 0,
+      "endIndex": 33,
+      "text": "I'm not a big horror movie person",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 11,
+    "speaker": "ASSISTANT",
+    "text": "What don't you like about them?"
+  }, {
+    "index": 12,
+    "speaker": "USER",
+    "text": "I think it's mostly just how much they use jump scares. Like if there's horror movies that don't use jump scares that only use one or two I fine with it, but I hate jump scares. I need horror movies that rely on them. I can't stand watching.",
+    "segments": [ {
+      "startIndex": 25,
+      "endIndex": 54,
+      "text": "how much they use jump scares",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 56,
+      "endIndex": 152,
+      "text": "Like if there's horror movies that don't use jump scares that only use one or two I fine with it",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 158,
+      "endIndex": 176,
+      "text": "I hate jump scares",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    }, {
+      "startIndex": 218,
+      "endIndex": 240,
+      "text": "I can't stand watching",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_GENRE_OR_CATEGORY"
+      } ]
+    } ]
+  }, {
+    "index": 13,
+    "speaker": "ASSISTANT",
+    "text": "Is there a particular movie that you dislike?"
+  }, {
+    "index": 14,
+    "speaker": "USER",
+    "text": "I saw the Santa Claus. For real the kids and I hated that movie. That was the first thing that came to mind.",
+    "segments": [ {
+      "startIndex": 6,
+      "endIndex": 21,
+      "text": "the Santa Claus",
+      "annotations": [ {
+        "annotationType": "ENTITY_NAME",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 65,
+      "endIndex": 107,
+      "text": "That was the first thing that came to mind",
+      "annotations": [ {
+        "annotationType": "ENTITY_OTHER",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    }, {
+      "startIndex": 23,
+      "endIndex": 63,
+      "text": "For real the kids and I hated that movie",
+      "annotations": [ {
+        "annotationType": "ENTITY_PREFERENCE",
+        "entityType": "MOVIE_OR_SERIES"
+      } ]
+    } ]
+  }, 
+
+{
+  "index": 23,
+  "speaker": "USER",
+  "text": "think that like you know, the the part of the plot really didn't work well.",
+  "segments": [ {
+    "startIndex": 30,
+    "endIndex": 74,
+    "text": "the part of the plot really didn't work well",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+} ,
+{
+"conversationId": "CCPE-74e5e",
+"utterances": [ {
+  "index": 0,
+  "speaker": "USER",
+  "text": "Hello."
+}, {
+  "index": 1,
+  "speaker": "ASSISTANT",
+  "text": "What type of movies do you like?"
+}, {
+  "index": 2,
+  "speaker": "USER",
+  "text": "I like action movies and science fiction movies.",
+  "segments": [ {
+    "startIndex": 7,
+    "endIndex": 20,
+    "text": "action movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 25,
+    "endIndex": 40,
+    "text": "science fiction",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 0,
+    "endIndex": 47,
+    "text": "I like action movies and science fiction movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 3,
+  "speaker": "ASSISTANT",
+  "text": "why do you like action and science fiction?",
+  "segments": [ {
+    "startIndex": 16,
+    "endIndex": 22,
+    "text": "action",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 27,
+    "endIndex": 42,
+    "text": "science fiction",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 4,
+  "speaker": "USER",
+  "text": "Well, they are exciting and I've always liked science fiction, I like the imagination, the fantasy and all.",
+  "segments": [ {
+    "startIndex": 6,
+    "endIndex": 23,
+    "text": "they are exciting",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 28,
+    "endIndex": 61,
+    "text": "I've always liked science fiction",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 63,
+    "endIndex": 106,
+    "text": "I like the imagination, the fantasy and all",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 5,
+  "speaker": "ASSISTANT",
+  "text": "i definitely see that. so you like movies that have good lore?",
+  "segments": [ {
+    "startIndex": 42,
+    "endIndex": 61,
+    "text": "that have good lore",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 6,
+  "speaker": "USER",
+  "text": "Yes. Yeah, I like",
+  "segments": [ {
+    "startIndex": 5,
+    "endIndex": 17,
+    "text": "Yeah, I like",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 7,
+  "speaker": "USER",
+  "text": "You know have some excitement, and some other worldly adventures going on",
+  "segments": [ {
+    "startIndex": 9,
+    "endIndex": 70,
+    "text": "have some excitement, and some other worldly adventures going",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 8,
+  "speaker": "USER",
+  "text": "It keeps me from getting bored.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 30,
+    "text": "It keeps me from getting bored",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 9,
+  "speaker": "ASSISTANT",
+  "text": "Do you like movies like The Matrix?",
+  "segments": [ {
+    "startIndex": 24,
+    "endIndex": 34,
+    "text": "The Matrix",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 10,
+  "speaker": "USER",
+  "text": "Oh yeah, The Matrix I love The Matrix. I love the whole series it was great.",
+  "segments": [ {
+    "startIndex": 9,
+    "endIndex": 19,
+    "text": "The Matrix",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    }, {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 20,
+    "endIndex": 37,
+    "text": "I love The Matrix",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 39,
+    "endIndex": 75,
+    "text": "I love the whole series it was great",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 11,
+  "speaker": "ASSISTANT",
+  "text": "what about movies like Aliens?",
+  "segments": [ {
+    "startIndex": 23,
+    "endIndex": 29,
+    "text": "Aliens",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 12,
+  "speaker": "USER",
+  "text": "Yeah, aliens was was okay. It was good. The first Alien was even better, I thought. I think that was a classic.",
+  "segments": [ {
+    "startIndex": 6,
+    "endIndex": 12,
+    "text": "aliens",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 40,
+    "endIndex": 55,
+    "text": "The first Alien",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 6,
+    "endIndex": 25,
+    "text": "aliens was was okay",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 27,
+    "endIndex": 38,
+    "text": "It was good",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 40,
+    "endIndex": 71,
+    "text": "The first Alien was even better",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 92,
+    "endIndex": 110,
+    "text": "that was a classic",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 13,
+  "speaker": "ASSISTANT",
+  "text": "What's one of your favorite movies?"
+}, {
+  "index": 14,
+  "speaker": "USER",
+  "text": "I'd have to say Interstellar.",
+  "segments": [ {
+    "startIndex": 16,
+    "endIndex": 28,
+    "text": "Interstellar",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    }, {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 15,
+  "speaker": "ASSISTANT",
+  "text": "why is that?"
+}, {
+  "index": 16,
+  "speaker": "USER",
+  "text": "Well it's a very thought-provoking movie and great sci-fi, but with a touch of possibility, and it's relevant to the world today.",
+  "segments": [ {
+    "startIndex": 5,
+    "endIndex": 90,
+    "text": "it's a very thought-provoking movie and great sci-fi, but with a touch of possibility",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 96,
+    "endIndex": 128,
+    "text": "it's relevant to the world today",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 17,
+  "speaker": "ASSISTANT",
+  "text": "what did you think of the ending. personally i thought it was sad",
+  "segments": [ {
+    "startIndex": 22,
+    "endIndex": 32,
+    "text": "the ending",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "SOMETHING_ELSE"
+    } ]
+  } ]
+}, {
+  "index": 18,
+  "speaker": "USER",
+  "text": "Well it was a little sad, yes, but actually, you know for the future of mankind, it it held some possibilities anyway. And I would have liked liked it if the movie had continued, so we could see what happens next.",
+  "segments": [ {
+    "startIndex": 5,
+    "endIndex": 24,
+    "text": "it was a little sad",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "SOMETHING_ELSE"
+    } ]
+  }, {
+    "startIndex": 84,
+    "endIndex": 117,
+    "text": "it held some possibilities anyway",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "SOMETHING_ELSE"
+    } ]
+  }, {
+    "startIndex": 123,
+    "endIndex": 212,
+    "text": "I would have liked liked it if the movie had continued, so we could see what happens next",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "SOMETHING_ELSE"
+    } ]
+  } ]
+}, {
+  "index": 19,
+  "speaker": "ASSISTANT",
+  "text": "What type of movies do you not like?"
+}, {
+  "index": 20,
+  "speaker": "USER",
+  "text": "Romance and drama.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 7,
+    "text": "Romance",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 12,
+    "endIndex": 17,
+    "text": "drama",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 0,
+    "endIndex": 17,
+    "text": "Romance and drama",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 21,
+  "speaker": "ASSISTANT",
+  "text": "Ok. What is it about this type of movie that you dislike?"
+}, {
+  "index": 22,
+  "speaker": "USER",
+  "text": "Oh, that bored me. You know, I need action, and drama can be a little bit boring,",
+  "segments": [ {
+    "startIndex": 48,
+    "endIndex": 53,
+    "text": "drama",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 36,
+    "endIndex": 42,
+    "text": "action",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "SOMETHING_ELSE"
+    } ]
+  }, {
+    "startIndex": 4,
+    "endIndex": 17,
+    "text": "that bored me",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 48,
+    "endIndex": 80,
+    "text": "drama can be a little bit boring",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 29,
+    "endIndex": 42,
+    "text": "I need action",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "SOMETHING_ELSE"
+    } ]
+  } ]
+}, {
+  "index": 23,
+  "speaker": "USER",
+  "text": "I can't think of another word much better than that."
+}, {
+  "index": 24,
+  "speaker": "ASSISTANT",
+  "text": "okay. thanks for your help"
+} ]
+},
+{
+"conversationId": "CCPE-a00c5",
+"utterances": [ {
+  "index": 0,
+  "speaker": "ASSISTANT",
+  "text": "What type of movies do you enjoy?"
+}, {
+  "index": 1,
+  "speaker": "USER",
+  "text": "I enjoy comedy movies.",
+  "segments": [ {
+    "startIndex": 8,
+    "endIndex": 14,
+    "text": "comedy",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 0,
+    "endIndex": 21,
+    "text": "I enjoy comedy movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 2,
+  "speaker": "ASSISTANT",
+  "text": "What appeals to you with these type of movies?"
+}, {
+  "index": 3,
+  "speaker": "USER",
+  "text": "They're funny. I love being in I love the laughs so, yeah.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 13,
+    "text": "They're funny",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 31,
+    "endIndex": 51,
+    "text": "I love the laughs so",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 4,
+  "speaker": "ASSISTANT",
+  "text": "Is there a specific movie you enjoy from this genre?"
+}, {
+  "index": 5,
+  "speaker": "USER",
+  "text": "This is the end, I guess?",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 15,
+    "text": "This is the end",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    }, {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 6,
+  "speaker": "ASSISTANT",
+  "text": "What did you like about this movie?"
+}, {
+  "index": 7,
+  "speaker": "ASSISTANT",
+  "text": "Are there any type of movies that you don't enjoy?"
+}, {
+  "index": 8,
+  "speaker": "USER",
+  "text": "romantic comedies or just romantic movies in general like those",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 17,
+    "text": "romantic comedies",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    }, {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 26,
+    "endIndex": 44,
+    "text": "romantic movies in",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 21,
+    "endIndex": 41,
+    "text": "just romantic movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 9,
+  "speaker": "ASSISTANT",
+  "text": "What about these movies is unappealing?"
+}, {
+  "index": 10,
+  "speaker": "USER",
+  "text": "Just corny, and I don't like it.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 10,
+    "text": "Just corny",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 16,
+    "endIndex": 31,
+    "text": "I don't like it",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 11,
+  "speaker": "USER",
+  "text": "Lovey dovey kind of movies.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 26,
+    "text": "Lovey dovey kind of movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 12,
+  "speaker": "ASSISTANT",
+  "text": "Is there a specific movie that you heavily dislike?"
+}, {
+  "index": 13,
+  "speaker": "USER",
+  "text": "Not really."
+}, {
+  "index": 14,
+  "speaker": "ASSISTANT",
+  "text": "Have you seen Stepbrothers",
+  "segments": [ {
+    "startIndex": 14,
+    "endIndex": 26,
+    "text": "Stepbrothers",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 15,
+  "speaker": "USER",
+  "text": "Yes, I have seen Stepbrothers.",
+  "segments": [ {
+    "startIndex": 17,
+    "endIndex": 29,
+    "text": "Stepbrothers",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 16,
+  "speaker": "ASSISTANT",
+  "text": "What did you enjoy or not enjoy about this movie?"
+}, {
+  "index": 17,
+  "speaker": "USER",
+  "text": "It was hilarious. It's one of the best movies in the comedy genre.",
+  "segments": [ {
+    "startIndex": 53,
+    "endIndex": 59,
+    "text": "comedy",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 0,
+    "endIndex": 16,
+    "text": "It was hilarious",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 18,
+    "endIndex": 65,
+    "text": "It's one of the best movies in the comedy genre",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 18,
+  "speaker": "ASSISTANT",
+  "text": "Thank you for your help and have a wonderful day!"
+}, {
+  "index": 19,
+  "speaker": "USER",
+  "text": "Thank you."
+} ]
+},
+{
+"conversationId": "CCPE-e30d4",
+"utterances": [ {
+  "index": 0,
+  "speaker": "ASSISTANT",
+  "text": "What type of movies do you like?"
+}, {
+  "index": 1,
+  "speaker": "USER",
+  "text": "I like several different types of movies.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 40,
+    "text": "I like several different types of movies",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 2,
+  "speaker": "ASSISTANT",
+  "text": "such as?"
+}, {
+  "index": 3,
+  "speaker": "USER",
+  "text": "I liked the film Black Swan, which is a drama.",
+  "segments": [ {
+    "startIndex": 40,
+    "endIndex": 45,
+    "text": "drama",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  }, {
+    "startIndex": 17,
+    "endIndex": 27,
+    "text": "Black Swan",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 0,
+    "endIndex": 27,
+    "text": "I liked the film Black Swan",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 4,
+  "speaker": "ASSISTANT",
+  "text": "ooh, black swan was a good movie",
+  "segments": [ {
+    "startIndex": 5,
+    "endIndex": 15,
+    "text": "black swan",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 5,
+  "speaker": "USER",
+  "text": "I agree.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 7,
+    "text": "I agree",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 6,
+  "speaker": "ASSISTANT",
+  "text": "what did you like ab out it?"
+}, {
+  "index": 7,
+  "speaker": "USER",
+  "text": "I really enjoyed the ballet in it, I thought it was very artistic and it was a story that was dark, but very intense and interesting.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 33,
+    "text": "I really enjoyed the ballet in it",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 35,
+    "endIndex": 65,
+    "text": "I thought it was very artistic",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 70,
+    "endIndex": 98,
+    "text": "it was a story that was dark",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 100,
+    "endIndex": 116,
+    "text": "but very intense",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 121,
+    "endIndex": 132,
+    "text": "interesting",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 8,
+  "speaker": "ASSISTANT",
+  "text": "what did u think of the ending?"
+}, {
+  "index": 9,
+  "speaker": "USER",
+  "text": "I thought it was effective. It was intense, and it made it a more interesting film.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 26,
+    "text": "I thought it was effective",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 28,
+    "endIndex": 42,
+    "text": "It was intense",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 48,
+    "endIndex": 82,
+    "text": "it made it a more interesting film",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 10,
+  "speaker": "ASSISTANT",
+  "text": "Can you name me a movie you didn't like?"
+}, {
+  "index": 11,
+  "speaker": "USER",
+  "text": "I can't think of one of the top of my head."
+}, {
+  "index": 12,
+  "speaker": "ASSISTANT",
+  "text": "okay. Have you heard of the movie Spirited Away?",
+  "segments": [ {
+    "startIndex": 34,
+    "endIndex": 47,
+    "text": "Spirited Away",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 13,
+  "speaker": "USER",
+  "text": "Is that an anime film?",
+  "segments": [ {
+    "startIndex": 11,
+    "endIndex": 16,
+    "text": "anime",
+    "annotations": [ {
+      "annotationType": "ENTITY_NAME",
+      "entityType": "MOVIE_GENRE_OR_CATEGORY"
+    } ]
+  } ]
+}, {
+  "index": 14,
+  "speaker": "ASSISTANT",
+  "text": "yes"
+}, {
+  "index": 15,
+  "speaker": "USER",
+  "text": "Yes, I've heard of it. I believe I've seen it."
+}, {
+  "index": 16,
+  "speaker": "ASSISTANT",
+  "text": "what did you like about this kind of movie?"
+}, {
+  "index": 17,
+  "speaker": "USER",
+  "text": "I don't generally like anime films but I enjoyed the story, and I thought the characters were interesting, and the direction was really good.",
+  "segments": [ {
+    "startIndex": 0,
+    "endIndex": 58,
+    "text": "I don't generally like anime films but I enjoyed the story",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 64,
+    "endIndex": 105,
+    "text": "I thought the characters were interesting",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  }, {
+    "startIndex": 111,
+    "endIndex": 140,
+    "text": "the direction was really good",
+    "annotations": [ {
+      "annotationType": "ENTITY_PREFERENCE",
+      "entityType": "MOVIE_OR_SERIES"
+    } ]
+  } ]
+}, {
+  "index": 18,
+  "speaker": "ASSISTANT",
+  "text": "Goodbye"
+} 
+
+]
